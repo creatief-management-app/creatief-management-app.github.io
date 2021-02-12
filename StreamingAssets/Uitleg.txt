@@ -1,0 +1,10 @@
+Sleep figuren van het linker veld naar het opstellingsveld in het midden op ze op te stellen
+of terug, als je ze niet meer in de opstelling wil hebben.
+
+Als een figuur in het opstellingsveld staat kan het worden 
+•  vergroot of verkleind door te klikken op de rechter muisknop of 
+    de pijlen naar boven ↑ en naar beneden ↓ op het toetsenbord te gebruiken
+•  van kleur veranderen door te klikken op de linker muisknop of
+    de spatiebalk van de toetsenbord te gebruiken
+•  van richting veranderen door het muiswiel te bewegen of
+    de pijlen links ← en rechts → op het toetsenbord te gebruiken.

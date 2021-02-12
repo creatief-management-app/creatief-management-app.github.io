@@ -1,0 +1,29 @@
+Deze opstellingspagina biedt de mogelijkheid om direct online een opstelling te maken.
+
+Deze app is een kennismakingsversie en geeft gelegenheid hiermee kennis te maken. 
+De app werkt 5 minuten en moet daarna opnieuw worden opgestart. 
+Wil je de volledig werkende app hebben, neem dan contact op met....
+
+De opstellingspagina bestaat uit drie delen:
+
+Links staan de items die kunnen worden opgesteld. De bovenste twee zijn de symbolen voor mannelijke (vierkant) en vrouwelijke (rond) personen in de opstelling. Zij hebben een 'neus', waarmee de kijkrichting kan worden aangegeven.
+De overige figuren kunnen worden gebruikt als symbool voor andere zaken om op te stellen, zoals bv. de organisatie, het bedrijf, de teamgeest, of de liefde, de angst, de blokkade, de weerstand, e.d. 
+
+Het midden is het opstellingsveld, waar de figuren heen kunnen worden gesleept en bewerkt.
+Als een figuur in het opstellingsveld staat kan het worden 
+•  vergroot of verkleind door te klikken op de rechter muisknop of 
+    de pijlen naar boven ↑ en naar beneden ↓ op het toetsenbord te gebruiken
+•  van kleur veranderen door te klikken op de linker muisknop of
+    de pijlen links ← en rechts → op het toetsenbord te gebruiken
+•  van richting veranderen door het muiswiel te bewegen of
+    de spatiebalk van de toetsenbord te gebruiken.
+Sleep om een figuur te verwijderen uit het opstellingsveld, het weer terug naar het linker vak.
+
+Zodra een persoon of object in het opstellingsveld is geplaatst, verschijnt rechts de mogelijkheid de opgestelde personen en figuren een naam te geven of te benoemen waar ze voor staan. 
+Bovenaan kan een naam voor de opstelling worden ingevuld.
+
+Gebruik de ? -helpknop om op te frissen hoe je de figuurtjes in de opstelling kunt bewerken.
+
+Met de knop opslaan wordt de opstelling als afbeelding onder de ingevulde naam opgeslagen.
+De knop met vraagteken verwijst naar deze pagina.
+En met afsluiten verlaat je de opstellingspagina.
