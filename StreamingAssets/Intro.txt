@@ -1,18 +1,19 @@
-Deze opstellingspagina biedt de mogelijkheid om direct online een opstelling te maken.
-
-Deze app is een kennismakingsversie en geeft gelegenheid hiermee kennis te maken. 
-De app werkt 5 minuten en moet daarna opnieuw worden opgestart. 
-Wil je de volledig werkende app hebben, neem dan contact op met....
+Deze app biedt de mogelijkheid om online een opstelling te maken, verschillende fasen in een opstelling op te slaan en is, in combinatie met Zoom, Teamviewer of vergelijkbare programma's, te gebruiken voor online sessies.
 
 De opstellingspagina bestaat uit drie delen:
 
-Links staan de items die kunnen worden opgesteld. De bovenste twee zijn de symbolen voor mannelijke (vierkant) en vrouwelijke (rond) personen in de opstelling. Zij hebben een 'neus', waarmee de kijkrichting kan worden aangegeven.
+Links staan de items die kunnen worden opgesteld. De bovenste drie zijn de symbolen voor mannelijke (vierkant), vrouwelijke (rond) en genderneutrale personen (vierkant met ronde hoeken) in de opstelling. Zij hebben een 'neus', waarmee de kijkrichting kan worden aangegeven.
 De overige figuren kunnen worden gebruikt als symbool voor andere zaken om op te stellen, zoals bv. de organisatie, het bedrijf, de teamgeest, of de liefde, de angst, de blokkade, de weerstand, e.d. 
 
 Het midden is het opstellingsveld, waar de figuren heen kunnen worden gesleept en bewerkt.
+
+Om een figuurtje te kunnen aanpassen met muis of toetsenbord, moet de muisaanwijzer boven het te wijzigen figuurtje staan.
 Als een figuur in het opstellingsveld staat kan het worden 
+•  verplaatst door de linker of rechter muisknop ingedrukt 
+    te houden en de figuur naar de gewenste positie te slepen
 •  vergroot of verkleind door te klikken op de rechter muisknop of 
-    de pijlen naar boven ↑ en naar beneden ↓ op het toetsenbord te gebruiken
+    de pijlen naar boven ↑ en naar beneden ↓ op het toetsenbord 
+    te gebruiken
 •  van kleur veranderen door te klikken op de linker muisknop of
     de pijlen links ← en rechts → op het toetsenbord te gebruiken
 •  van richting veranderen door het muiswiel te bewegen of
@@ -20,10 +21,9 @@ Als een figuur in het opstellingsveld staat kan het worden
 Sleep om een figuur te verwijderen uit het opstellingsveld, het weer terug naar het linker vak.
 
 Zodra een persoon of object in het opstellingsveld is geplaatst, verschijnt rechts de mogelijkheid de opgestelde personen en figuren een naam te geven of te benoemen waar ze voor staan. 
-Bovenaan kan een naam voor de opstelling worden ingevuld.
 
-Gebruik de ? -helpknop om op te frissen hoe je de figuurtjes in de opstelling kunt bewerken.
+De knop met vraagteken geeft de bewegings- en bewerkingsmogelijkheden van de figuren weer.
 
-Met de knop opslaan wordt de opstelling als afbeelding onder de ingevulde naam opgeslagen.
-De knop met vraagteken verwijst naar deze pagina.
-En met afsluiten verlaat je de opstellingspagina.
+Met de knop opslaan kan de opstelling worden opgeslagen. Geef dan je opstelling een naam. De  afbeelding wordt opgeslagen in de submap Screenshots in de map Opstellingspagina, tenzij je zelf een andere map kiest. Deze wordt dan de standaard opslagmap, tot je weer een nieuwe map kiest. 
+Je kunt een opstelling meermaals opslaan. Hij wordt dan in de laatst gebruikte map onder dezelfde naam opgeslagen met een vervolgnummer.
+Zo kun je verschillende fasen in het opstellingsproces vastleggen.

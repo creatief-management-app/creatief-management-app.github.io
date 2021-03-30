@@ -1,10 +1,20 @@
-Sleep figuren van het linker veld naar het opstellingsveld in het midden op ze op te stellen
+Sleep figuren van de linkerkolom naar het opstellingsveld in het midden op ze op te stellen
 of terug, als je ze niet meer in de opstelling wil hebben.
+Noteer in de rechterkolom de naam.
+
+Om een figuurtje te kunnen aanpassen met muis of toetsenbord, moet de muisaanwijzer boven het te wijzigen figuurtje staan.
 
 Als een figuur in het opstellingsveld staat kan het worden 
+•  verplaatst door de linker of rechter muisknop ingedrukt 
+    te houden en de figuur naar de gewenste positie te slepen
 •  vergroot of verkleind door te klikken op de rechter muisknop of 
-    de pijlen naar boven ↑ en naar beneden ↓ op het toetsenbord te gebruiken
+    de pijlen naar boven ↑ en naar beneden ↓ op het toetsenbord
+    te gebruiken
 •  van kleur veranderen door te klikken op de linker muisknop of
     de spatiebalk van de toetsenbord te gebruiken
 •  van richting veranderen door het muiswiel te bewegen of
     de pijlen links ← en rechts → op het toetsenbord te gebruiken.
+
+Met de knop opslaan kan de opstelling worden opgeslagen. Geef dan je opstelling een naam. De  afbeelding wordt standaard opgeslagen in de submap Screenshots, tenzij je zelf een andere map kiest. Deze wordt dan de standaard opslagmap tot je weer een nieuwe map kiest. 
+Je kunt een opstelling meermaals opslaan. Hij wordt dan in de laatst gebruikte map onder dezelfde naam opgeslagen met een vervolgnummer.
+Zo kun je verschillende fasen in het opstellingsproces vastleggen.
