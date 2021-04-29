@@ -13,6 +13,8 @@ De overige figuren kunnen worden gebruikt als symbool voor andere zaken om op te
 
 Het midden is het opstellingsveld, waar de figuren heen kunnen worden gesleept en bewerkt.
 
+In de rechterkolom kun je de opgestelde firuren een naam geven.
+
 Om een figuur te kunnen aanpassen met muis of toetsenbord, moet je met de muisaanwijzer op de te wijzigen figuur klikken.
 Daarna kun je de figuur in het opstellingsveld... 
 •  verplaatsen door de linker of rechter muisknop ingedrukt 
