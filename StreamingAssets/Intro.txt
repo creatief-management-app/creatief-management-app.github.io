@@ -1,6 +1,6 @@
 Deze app biedt de mogelijkheid om online een opstelling te maken, verschillende fasen in een opstelling op te slaan en is, in combinatie met Zoom, Teamviewer of vergelijkbare programma's, te gebruiken voor online sessies.
 
-Geef om te beginnen een naam in het veld 'Enter room name' links onder in de pagina en klik daarna op 'Create room'. 
+Zet om te beginnen de afgesproken naam in het veld 'Enter room name' links onder in de pagina en klik daarna op 'Create room'. 
 
 De opstellingspagina bestaat uit drie delen:
 
