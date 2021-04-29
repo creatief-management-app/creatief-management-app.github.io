@@ -1,9 +1,9 @@
-Om een figuurtje te kunnen aanpassen met muis of toetsenbord, moet de muisaanwijzer boven het te wijzigen figuurtje staan.
+Om een figuurtje te kunnen aanpassen met muis of toetsenbord, moet je het eerst met de muisaanwijzer aanklikken.
 
-Als een figuur in het opstellingsveld staat kan het worden 
+Daarna kun je het figuurtje in het opstellingsveld... 
 •  verplaatst door de linker of rechter muisknop ingedrukt 
     te houden en de figuur naar de gewenste positie te slepen
-•  vergroot of verkleind door te klikken op de rechter muisknop of 
+•  vergroten of verkleinen door te klikken op de rechter muisknop of 
     de pijlen naar boven ↑ en naar beneden ↓ op het toetsenbord
     te gebruiken
 •  van kleur veranderen door te klikken op de linker muisknop of
