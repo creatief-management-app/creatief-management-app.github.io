@@ -1,7 +1,5 @@
 Deze app biedt de mogelijkheid om online een opstelling te maken, verschillende fasen in een opstelling op te slaan en is, in combinatie met Zoom, Teamviewer of vergelijkbare programma's, te gebruiken voor online sessies.
 
-Zet om te beginnen de afgesproken naam in het veld 'Enter room name' links onder in de pagina en klik daarna op 'Create room'. 
-
 De opstellingspagina bestaat uit drie delen:
 
 Links staan de items die kunnen worden opgesteld. De bovenste drie zijn de symbolen voor mannelijke (vierkant), vrouwelijke (rond) en genderneutrale personen (vierkant met ronde hoeken) in de opstelling. Zij hebben een 'neus', waarmee de kijkrichting kan worden aangegeven.
@@ -9,19 +7,18 @@ De overige figuren kunnen worden gebruikt als symbool voor andere zaken om op te
 
 Het midden is het opstellingsveld, waar de figuren heen kunnen worden gesleept en bewerkt.
 
-Om een figuur te kunnen aanpassen met muis of toetsenbord, moet je met de muisaanwijzer op de te wijzigen figuur klikken.
-Daarna kun je de figuur in het opstellingsveld... 
-•  verplaatsen door de linker of rechter muisknop ingedrukt 
+Om een figuurtje te kunnen aanpassen met muis of toetsenbord, moet de muisaanwijzer boven het te wijzigen figuurtje staan.
+Als een figuur in het opstellingsveld staat kan het worden 
+•  verplaatst door de linker of rechter muisknop ingedrukt 
     te houden en de figuur naar de gewenste positie te slepen
-•  verwijderen door de linker of rechter muisknop ingedrukt 
-    te houden en de figuur naar de de linker kolom terug te slepen
-•  vergroten of verkleinen door te klikken op de rechter muisknop of 
+•  vergroot of verkleind door te klikken op de rechter muisknop of 
     de pijlen naar boven ↑ en naar beneden ↓ op het toetsenbord 
     te gebruiken
 •  van kleur veranderen door te klikken op de linker muisknop of
     de pijlen links ← en rechts → op het toetsenbord te gebruiken
 •  van richting veranderen door het muiswiel te bewegen of
     de spatiebalk van de toetsenbord te gebruiken.
+Sleep om een figuur te verwijderen uit het opstellingsveld, het weer terug naar het linker vak.
 
 Zodra een persoon of object in het opstellingsveld is geplaatst, verschijnt rechts de mogelijkheid de opgestelde personen en figuren een naam te geven of te benoemen waar ze voor staan. 
 
