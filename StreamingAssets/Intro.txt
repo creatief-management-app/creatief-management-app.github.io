@@ -24,6 +24,6 @@ Zodra een persoon of object in het opstellingsveld is geplaatst, verschijnt rech
 
 De knop met vraagteken geeft de bewegings- en bewerkingsmogelijkheden van de figuren weer.
 
-Met de knop opslaan kan de opstelling worden opgeslagen. Geef dan je opstelling een naam. De  afbeelding wordt opgeslagen in de submap Screenshots in de map Opstellingspagina, tenzij je zelf een andere map kiest. Deze wordt dan de standaard opslagmap, tot je weer een nieuwe map kiest. 
-Je kunt een opstelling meermaals opslaan. Hij wordt dan in de laatst gebruikte map onder dezelfde naam opgeslagen met een vervolgnummer.
+Met de knop 'Opslaan' kan de opstelling worden opgeslagen. Gebruik de voorgestelde naam of geef je opstelling zelf een naam. De afbeelding wordt opgeslagen in de map Downloads, tenzij je zelf een andere map kiest. Deze wordt dan de standaard opslagmap, tot je weer een nieuwe map kiest. 
+Je kunt een opstelling meermaals opslaan. Hij wordt dan in de laatst gebruikte map onder dezelfde naam met een vervolgnummer opgeslagen.
 Zo kun je verschillende fasen in het opstellingsproces vastleggen.
