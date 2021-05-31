@@ -12,6 +12,6 @@ Daarna kun je de figuur in het opstellingsveld...
 •  van richting veranderen door het muiswiel te bewegen of
     de spatiebalk van de toetsenbord te gebruiken.
 
-Met de knop opslaan kan de opstelling worden opgeslagen. Geef dan je opstelling een naam. De  afbeelding wordt standaard opgeslagen in de submap Screenshots, tenzij je zelf een andere map kiest. Deze wordt dan de standaard opslagmap tot je weer een nieuwe map kiest. 
+Met de knop opslaan kan de opstelling worden opgeslagen. Geef dan je opstelling een naam. De  afbeelding wordt standaard opgeslagen in een zelf een map. Deze wordt dan de standaard opslagmap tot je weer een nieuwe map kiest. 
 Je kunt een opstelling meermaals opslaan. Hij wordt dan in de laatst gebruikte map onder dezelfde naam opgeslagen met een vervolgnummer.
 Zo kun je verschillende fasen in het opstellingsproces vastleggen.
