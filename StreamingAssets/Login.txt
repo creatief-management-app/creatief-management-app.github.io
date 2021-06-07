@@ -5,4 +5,4 @@ Als deelnemer aan een sessie kun je inloggen
 met de toegestuurde inloggegevens.
 
 Wil je gewoon even een kijkje nemen en kennis maken met de app, 
-klik dan op "of ga naar de demoversie zonder inloggen".
+klik dan op "ga naar zonder inloggen de demoversie".
