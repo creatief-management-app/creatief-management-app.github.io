@@ -1,8 +1,8 @@
 Deze app biedt de mogelijkheid om online een opstelling te maken, verschillende fasen in een opstelling op te slaan en is, in combinatie met Zoom, Teamviewer of vergelijkbare programma's, te gebruiken voor online sessies.
 
 
-<b><span style="color: #4000a0; font-size: 10pt;">Deze app is een kennismakingsversie en geeft gelegenheid hiermee kennis te maken. 
-De app werkt <u>5 minuten</u> en sluit dan automatisch af. De app kan daarna opnieuw worden opgestart.</span></b>
+<b>Deze app is een kennismakingsversie en geeft gelegenheid hiermee kennis te maken. 
+De app werkt <u>5 minuten</u> en sluit dan automatisch af. De app kan daarna opnieuw worden opgestart.</b>
 
 
 De opstellingspagina bestaat uit drie delen:
