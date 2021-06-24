@@ -7,7 +7,7 @@ De app werkt <u>5 minuten</u> en sluit dan automatisch af. De app kan daarna opn
 
 De opstellingspagina bestaat uit drie delen:
 
-<b>Links</b> staan de items die kunnen worden opgesteld. De bovenste drie zijn de symbolen voor mannelijke (vierkant), vrouwelijke (rond) en genderneutrale personen (vierkant met ronde hoeken) in de opstelling. Zij hebben een 'neus', waarmee de kijkrichting kan worden aangegeven.
+<b>Links</b> staan de items die kunnen worden opgesteld. De bovenste drie zijn de symbolen voor mannelijke (vierkant), vrouwelijke (rond) en genderneutrale personen of entiteiten (vierkant met ronde hoeken) in de opstelling. Zij hebben een 'neus', waarmee de kijkrichting kan worden aangegeven.
 De overige figuren kunnen worden gebruikt als symbool voor andere zaken om op te stellen, zoals bv. de organisatie, het bedrijf, de teamgeest, of de liefde, de angst, de blokkade, de weerstand, e.d. 
 
 <b>Het midden</b> is het opstellingsveld, waar de figuren heen kunnen worden gesleept en bewerkt.
