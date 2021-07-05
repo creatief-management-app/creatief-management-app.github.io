@@ -17,7 +17,7 @@ Als een figuur in het opstellingsveld staat kan het worden
     de spatiebalk van de toetsenbord te gebruiken
 •  <u>van richting veranderen</u> door het muiswiel te bewegen of
     de pijlen links ← en rechts → op het toetsenbord te gebruiken
-De bewegings- en bewerkingsmogelijkheden van de figuren staan ook verkort in de balk onder het scherm.
+De bewegings- en bewerkingsmogelijkheden van de figuren staan ook verkort in de balk onderaan het scherm.
 
 <b>Rechts</b>: Zodra een persoon of object in het opstellingsveld is geplaatst, verschijnt de mogelijkheid de opgestelde personen en figuren een naam te geven of te benoemen waar ze voor staan. 
 
