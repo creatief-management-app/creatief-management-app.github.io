@@ -1,17 +1,29 @@
-Om een figuur te kunnen aanpassen met muis of toetsenbord, moet je met de muisaanwijzer op de te wijzigen figuur klikken.
-Daarna kun je de figuur in het opstellingsveld... 
-•  <u>verplaatsen</u> door de linker of rechter muisknop ingedrukt 
+De opstellingspagina bestaat uit drie delen:
+
+<b>Links</b> staan de items die kunnen worden opgesteld. De bovenste drie zijn de symbolen voor mannelijke (vierkant), vrouwelijke (rond) en genderneutrale personen of entiteiten (vierkant met ronde hoeken) in de opstelling, zoals bv. de klant, de bezoeker, de rechter, e.d. Zij hebben een 'neus', waarmee de kijkrichting kan worden aangegeven.
+De overige figuren kunnen worden gebruikt als symbool voor andere zaken om op te stellen, zoals bv. de organisatie, het bedrijf, de teamgeest, of de liefde, de angst, de blokkade, de weerstand, e.d. 
+
+Het <b>midden</b> is het opstellingsveld, waar de figuren heen kunnen worden gesleept en bewerkt.
+
+Om een figuurtje te kunnen aanpassen met muis of toetsenbord, moet de muisaanwijzer boven het te wijzigen figuurtje staan.
+Als een figuur in het opstellingsveld staat kan het worden 
+•  <u>verplaatst</u> door de linker of rechter muisknop ingedrukt 
     te houden en de figuur naar de gewenste positie te slepen
-•  <u>verwijderen</u> door de linker of rechter muisknop ingedrukt 
-    te houden en de figuur naar de linkerkolom terug te slepen
-•  <u>vergroten</u> of <u>verkleinen</u> door te klikken op de rechter muisknop of 
+•  <u>verwijderd</u> door de figuur terug te slepen naar het linker vak    
+•  <u>vergroot</u> of <u>verkleind</u> door te klikken op de rechter muisknop of 
     de pijlen naar boven ↑ en naar beneden ↓ op het toetsenbord 
     te gebruiken
 •  <u>van kleur veranderen</u> door te klikken op de linker muisknop of
-    de pijlen links ← en rechts → op het toetsenbord te gebruiken
+    de spatiebalk van de toetsenbord te gebruiken
 •  <u>van richting veranderen</u> door het muiswiel te bewegen of
-    de spatiebalk van de toetsenbord te gebruiken.
+    de pijlen links ← en rechts → op het toetsenbord te gebruiken
 
-Met de knop <b>opslaan</b> kan de opstelling worden opgeslagen. Geef dan je opstelling een naam. Gebruik de voorgestelde naam van de sessie of geef je opstelling zelf een naam. De afbeelding wordt opgeslagen in een zelf te kiezen map. Deze wordt dan de standaard opslagmap, tot je weer een nieuwe map kiest. 
+<b>Rechts</b>: Zodra een persoon of object in het opstellingsveld is geplaatst, verschijnt de mogelijkheid de opgestelde personen en figuren een naam te geven of te benoemen waar ze voor staan. 
+
+
+De knop met vraagteken <b>?</b>  geeft de bewegings- en bewerkingsmogelijkheden van de figuren weer.
+Deze staan ook verkort onder het opstellingsveld.
+
+Met de knop <b>Opslaan</b> kan de opstelling worden opgeslagen. Gebruik de voorgestelde naam van de sessie of geef je opstelling zelf een naam. De afbeelding wordt opgeslagen in een zelf te kiezen map. Deze wordt dan de standaard opslagmap, tot je weer een nieuwe map kiest. 
 Je kunt een opstelling meermaals opslaan. Hij wordt dan in de laatst gebruikte map onder de naam van de sessie met een vervolgnummer opgeslagen.
 Zo kun je verschillende fasen in het opstellingsproces vastleggen.
