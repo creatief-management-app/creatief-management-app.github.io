@@ -10,6 +10,8 @@ De opstellingspagina bestaat uit drie delen:
 <b>Links</b> staan de items die kunnen worden opgesteld. 
 
 <b>Het midden</b> is het opstellingsveld, waar de figuren heen kunnen worden gesleept en bewerkt.
+De opgestelde figuren kunnen worden bewerkt met behulp van de muis (li-knop, re-knop en muiswiel)
+en toetsenbord (pijlen en spatiebalk).
 Onder de <b>?</b> Helpknop vind je uitleg hierover.
 Deze staan ook verkort onder het opstellingsveld.
 
