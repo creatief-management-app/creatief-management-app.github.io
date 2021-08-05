@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
 Voor vragen of feedback kun je contact opnemen met:
 Hans Planje - <a href="mailto:info@hansplanje.com">info@hansplanje.nl</a> - 053-4772532 of 
 Tosho Kooimans - <a href="mailto:toshokooimans@gmail.com>toshokooimans@gmail.com</a> - 06-43741939
+</html>
