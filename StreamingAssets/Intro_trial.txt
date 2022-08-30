@@ -7,7 +7,7 @@ De app werkt <u>5 minuten</u> en sluit dan automatisch af. De app kan daarna opn
 
 De opstellingspagina bestaat uit drie delen:
 
-<b>Links</b> staan de items die kunnen worden opgesteld. 
+<b>Links</b> staan de items die kunnen worden opgesteld. Gebruik < en > om te wisselen tussen de pagina's. 
 
 <b>Het midden</b> is het opstellingsveld, waar de figuren heen kunnen worden gesleept en bewerkt.
 De opgestelde figuren kunnen worden bewerkt met behulp van de muis (li-knop, re-knop en muiswiel)
